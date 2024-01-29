@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "368033471374",
+    "project_id": "pocktguardian",
+    "storage_bucket": "pocktguardian.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368033471374:android:51abdcbbc3fc4144c2e2df",
+        "android_client_info": {
+          "package_name": "com.example.pocketguardianapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKsBP8HQmaLjnzmgoZ1nZDBB-idWEpVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

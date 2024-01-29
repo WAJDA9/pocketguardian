@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>426168248917-ga48620jp9j4k1gdh9qka82dtc0333oq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.426168248917-ga48620jp9j4k1gdh9qka82dtc0333oq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCMMyH7MPsFQc5XEquc_PNYHpR5HvhEUac</string>
+	<key>GCM_SENDER_ID</key>
+	<string>426168248917</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.pocketguardianapp</string>
+	<key>PROJECT_ID</key>
+	<string>pocket-guardian-6b6e2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pocket-guardian-6b6e2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:426168248917:ios:f8492b0a71f2713c7102dc</string>
+</dict>
+</plist>
