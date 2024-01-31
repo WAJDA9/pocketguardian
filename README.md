@@ -1,16 +1,9 @@
 # pocketguardianapp
 
-A new Flutter project.
+A Flutter project.
 
-## Getting Started
+In an age marked by digital innovation and seamless connectivity, the way we manage our finances is rapidly evolving. Traditional wallets are giving way to intelligent, mobile-based solutions that offer convenience, security, and enhanced control over our finances. 
 
-This project is a starting point for a Flutter application.
+This is why the Pocket Guardian mobile app comes as the best wallets alternative.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
